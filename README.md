@@ -7,7 +7,9 @@
   < artifactId>twilio</artifactId>
   < version>8.22.0</version>
 < /dependency>
- 
+</br>
+ <img src="https://github.com/ringostarr-jaime/EnvioMensajes/blob/main/5.JPG" width="650" >
+</br>
  <p>En la consola dando click al nombre de tu proyecto te saldra esta informacion lo primero que debes</p>
  <p>hacer es registrar un numero como esta es una prueba debemos elegir un numero de trial que nos proporciona TWILIO</p>
  <p>una vez hecho esto aca podemos copiar nuesto SID y nuestro TOKEN</p>
@@ -29,5 +31,4 @@
 </br>
 <img src="https://github.com/ringostarr-jaime/EnvioMensajes/blob/main/4.JPG" width="650" >
 </br>
-<img src="https://github.com/ringostarr-jaime/EnvioMensajes/blob/main/5.JPG" width="650" >
-</br>
+
