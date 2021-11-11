@@ -2,11 +2,11 @@
  Envio de mensajes de texto al celular o whatsapp con la api TWILIO
  Debes crear una cuenta en https://www.twilio.com/try-twilio
  y descargar la depencia 
- < dependency>
-  < groupId>com.twilio.sdk</groupId>
-  < artifactId>twilio</artifactId>
-  < version>8.22.0</version>
-< /dependency>
+ <p>< dependency></p>
+  <p>< groupId>com.twilio.sdk</groupId></p>
+  <p>< artifactId>twilio</artifactId></p>
+  <p>< version>8.22.0</version></p>
+<p>< /dependency></p>
 </br>
  <img src="https://github.com/ringostarr-jaime/EnvioMensajes/blob/main/5.JPG" width="650" >
 </br>
