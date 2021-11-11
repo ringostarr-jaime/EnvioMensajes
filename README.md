@@ -8,7 +8,7 @@
   <p>< version>8.22.0</version></p>
 <p>< /dependency></p>
 </br>
- <img src="https://github.com/ringostarr-jaime/EnvioMensajes/blob/main/5.JPG" width="650" >
+ <img src="https://github.com/ringostarr-jaime/EnvioMensajes/blob/main/5.JPG" width="400" >
 </br>
  <p>En la consola dando click al nombre de tu proyecto te saldra esta informacion lo primero que debes</p>
  <p>hacer es registrar un numero como esta es una prueba debemos elegir un numero de trial que nos proporciona TWILIO</p>
