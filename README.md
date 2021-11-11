@@ -20,6 +20,7 @@
 <img src="https://github.com/ringostarr-jaime/EnvioMensajes/blob/main/7.JPG" width="650" >
 </br>
 <p>Pruebas desde Swagger</p>
+<p>Ejemplo del mensaje a enviar {"mensaje": "Hola Jaime", "numero": "+503XXXXXXXX"}</p>
 <img src="https://github.com/ringostarr-jaime/EnvioMensajes/blob/main/1.JPG" width="650" >
 </br>
 <img src="https://github.com/ringostarr-jaime/EnvioMensajes/blob/main/2.JPG" width="650" >
