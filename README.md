@@ -1,4 +1,4 @@
-# EnvioMensajes
+# EnvioMensajes spring boot, swagger, jpa, twilio
  Envio de mensajes de texto al celular o whatsapp con la api TWILIO
  Debes crear una cuenta en https://www.twilio.com/try-twilio
  y descargar la depencia 
